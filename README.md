@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rossenburgg](https://github.com/rossenburgg)
 
-- 💬 Ask me about **laravel and vue**
+- 💬 Ask me about **React, React natiev, cloud computing, E2EE, Cybersucurity**
 
 - 📫 How to reach me **{/}**
 
