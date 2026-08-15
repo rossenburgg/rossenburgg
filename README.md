@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rossenburgg](https://github.com/rossenburgg)
 
-- 💬 Ask me about **React, React natiev, cloud computing, E2EE, Cybersucurity**
+- 💬 Ask me about **React, React natiev, cloud computing, E2EE, Cybersecurity**
 
 - 📫 How to reach me **{/}**
 
